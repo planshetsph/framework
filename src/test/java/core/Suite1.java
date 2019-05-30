@@ -11,7 +11,7 @@ public class Suite1 {
 	@BeforeClass
 	public void setup(String environment) {
 		System.out.println("Environment is " + environment);
-		System.out.println("Branch is branch2");
+		System.out.println("Branch is branch2"); 
 	}
 
 	@Test
